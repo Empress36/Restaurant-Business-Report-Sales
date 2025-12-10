@@ -16,4 +16,10 @@ So many restaurant open each year and close down within the first year itself. I
 
 6.  What payment mode do customers prefer?
 
+## Dataset Used 
+
+<a href="https://github.com/Empress36/Restaurant-Business-Report-Sales/blob/main/Restuarant%20Sales%20Report.xlsx">Dataset<a/>
+
+
+
 
