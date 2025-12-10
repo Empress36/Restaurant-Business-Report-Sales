@@ -1,4 +1,4 @@
-### Restaurant-Business-Report-Sales-Data Analysis (Using excel and Power Pivot) 
+## Restaurant-Business-Report-Sales-Data Analysis (Using excel and Power Pivot) 
 
 ## Project Objective
 
