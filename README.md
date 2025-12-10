@@ -24,7 +24,7 @@ So many restaurant open each year and close down within the first year itself. I
 
 <a href="https://github.com/Empress36/Restaurant-Business-Report-Sales/blob/main/Dashboard%20Screenshot.jpeg">Dashboard View<a/>
 
-Project Summary
+## Project Summary
 
 The restaurant's dashboard unveiled a comprehensive narrative of its performance. The total orders for the period  is $299K, Leading the charge among the top-performing establishments was Veer Restaurant, demonstrating a strong customer base and effective service delivery.
 Delving deeper into customer behavior, the dashboard highlighted Srini has highest ordering customer, indicating a loyal patron or a significant order volume. The afternoon emerged as the busiest time of day, with a substantial 47% of orders placed during this period, signaling the importance of staffing and resource allocation during these peak hours.
@@ -32,19 +32,19 @@ The preferred mode of payment is Debit card and Cash on Delivery. Furthermore, Z
 
 ## Project Insights
 
-*   Top Restaurants: The "Top 5 Restaurant Orders" section highlights the most popular restaurants. This can inform decisions about menu focus, marketing efforts, and partnerships.
-*   Customer Behavior: The "Highest Ordering Customers" section identifies your most valuable customers. Analyzing their order history can reveal preferences and inform loyalty programs.
-*   Customer Satisfaction: The "Total Customer Rating" section (with the pie chart) gives you an overview of customer satisfaction. You can track this over time to identify any declines      and address issues.
-*   Order Timing: The "Order Quantity by Time of Day" section (with the pie chart) reveals peak ordering times. This helps with staffing, resource allocation, and promotional planning.
-*   Payment Preferences: The "Mode of Payment" section (with the pie chart) shows which payment methods are most popular. This can inform decisions about payment processing and potential     promotions.
-*   Cuisine & Location: "Most Liked Cuisine" and "Zones with Highest Orders" pinpoint popular offerings and areas. This can guide menu development, marketing, and expansion strategies.
+*   **Top Restaurants:** The "Top 5 Restaurant Orders" section highlights the most popular restaurants. This can inform decisions about menu focus, marketing efforts, and partnerships.
+*   **Customer Behavior:** The "Highest Ordering Customers" section identifies your most valuable customers. Analyzing their order history can reveal preferences and inform loyalty             programs.
+*   **Customer Satisfaction:** The "Total Customer Rating" section (with the pie chart) gives you an overview of customer satisfaction. You can track this over time to identify any             declines and address issues.
+*   **Order Timing:** The "Order Quantity by Time of Day" section (with the pie chart) reveals peak ordering times. This helps with staffing, resource allocation, and promotional               planning.
+*   **Payment Preferences:** The "Mode of Payment" section (with the pie chart) shows which payment methods are most popular. This can inform decisions about payment processing and             potential promotions.
+*   **Cuisine & Location:** "Most Liked Cuisine" and "Zones with Highest Orders" pinpoint popular offerings and areas. This can guide menu development, marketing, and expansion                 strategies.
 
-  ## Recommendations
+  ## Project Recommendations
 
-*   Focus on Top Performers: Analyze the success factors of Veer Restaurant and The Cave Hotel to replicate them across other restaurants.
-*   Optimize for Peak Hours: Ensure sufficient staffing and resources during the afternoon to handle the high order volume.
-*   Promote Popular Cuisine: Leverage the popularity of Chinese cuisine through targeted marketing campaigns and menu placement.
-*   Target Zone A: Implement strategies to increase orders in Zone A, including Zone C, such as promotional offers or improved service.
-*   Streamline Payment Methods: Ensure smooth processing for debit card and cash-on-delivery payments to enhance customer experience.
+*   **Focus on Top Performers:** Analyze the success factors of Veer Restaurant and The Cave Hotel to replicate them across other restaurants.
+*   **Optimize for Peak Hours:** Ensure sufficient staffing and resources during the afternoon to handle the high order volume.
+*   **Promote Popular Cuisine:** Leverage the popularity of Chinese cuisine through targeted marketing campaigns and menu placement.
+*   **Target Zone A:** Implement strategies to increase orders in Zone A, including Zone C, such as promotional offers or improved service.
+*   **Streamline Payment Methods:** Ensure smooth processing for debit card and cash-on-delivery payments to enhance customer experience.
   
 
